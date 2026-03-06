@@ -1,9 +1,9 @@
-![MasterHead](./tenor.gif)
-<br />
+# ⏰ Digital Clock
 
-The clock displays the current time dynamically with smooth updates every second, featuring a **modern glassmorphic UI**.
+A sleek, stylish **Digital Clock** built using **HTML, CSS, and JavaScript**. The clock displays the current time dynamically with smooth updates every second, featuring a **modern glassmorphic UI**.
 
 ---
+
 
 ## 📌 Features
 
